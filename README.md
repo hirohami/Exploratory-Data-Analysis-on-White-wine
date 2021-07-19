@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-on-White-wine
+Wine are comprised of various attributes like density, pH, sulphates, citric acid, residual sugar and more. Exploratory data analysis is being done to understand the relation among different attributes, understanding those factors can be so useful when considering to increase the product suppliment what buyers are buying more and how consumers are varying with varying attributes. 
